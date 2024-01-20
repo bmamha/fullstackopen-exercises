@@ -1,0 +1,16 @@
+button {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+li {
+    margin-bottom: 8px;
+}
+
+h2,h4 {
+    margin-bottom: 16px;
+}
+
+input {
+    margin-right: 12px;
+}
