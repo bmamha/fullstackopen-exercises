@@ -6,7 +6,7 @@ const ErrorNotification = ({ message }) => {
         fontSize: 20,
         paddingTop: '3px',
         border: '3px solid',
-        backgroundColor: 'lightred',
+        backgroundColor: 'lightgrey',
         borderRadius: '5px',
         padding: '10px',
 
