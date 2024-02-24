@@ -1,0 +1,12 @@
+POST http://localhost:3003/api/blogs
+content-type: application/json
+
+{
+    "title": "Does it still work",
+    "author": "Belafonte",
+    "url": "example.url",
+    "likes": 37
+  }
+
+
+  
